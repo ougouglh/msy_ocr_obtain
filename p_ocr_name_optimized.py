@@ -35,7 +35,7 @@ class BarcodeOCRProcessor:
         self.FILE_PATH = "data/待处理20260501批次/待处理20260501_batch1.csv"
         self.BATCH_DIR = "data/待处理20260501批次"
         self.BATCH_PATTERN = "待处理20260501_batch"
-        self.WINDOW_TITLE = "马上赢比价宝"
+        self.WINDOW_TITLE = "xxxxxx"
 
         # 小程序重启位置配置
         self.mini_program_positions = {
